@@ -1,0 +1,44 @@
+body {
+  background-image: url(img/Sharp.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+
+.heroShop {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 81px;
+  color: #FFFFFF;
+  margin-top: 354px;   /* burayı yukarıdan 354 px mesafe bırakarak yaptım fakat sayfa büyüyüp küçüldüğünde burasının pozisyonu değişmiyor!!! */
+  
+  
+}
+
+p {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+  color: #FFFFFF;
+}
+.button {
+  
+  background-color:#094BAC ;
+  display: inline-block;
+  border-radius: 32px;
+  width: 214px;
+  height: 64px;
+}
+
+h2 {
+  color:#FFFFFF;
+  font-size: 23px;
+  line-height: 32px;
+}

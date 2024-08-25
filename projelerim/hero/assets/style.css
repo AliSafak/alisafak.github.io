@@ -1,0 +1,31 @@
+.container {
+  width: 1440px;
+  height: 692px;
+  display: flex;
+  margin-top: 8%;
+  margin-left: 10%;
+  
+}
+
+.leftside {
+  margin-top: 138px;
+  margin-left: 165px;
+  margin-right: 30px;
+}
+
+.header {
+  margin-bottom:24px ;
+}
+
+.price {
+  margin-top: 24px;
+}
+
+.Button {
+  margin-top:24px ;
+}
+
+.board {
+  margin-top: 80px;
+  margin-right:165px ;
+}

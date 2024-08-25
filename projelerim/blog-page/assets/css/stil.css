@@ -1,0 +1,100 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.container {
+  max-width: 1110px;
+  margin-inline: auto;
+}
+
+.pageHeader {
+  font-weight: 700;
+  font-size: 40px;
+  line-height:48px ;
+  color: #212121;
+  margin-top: 80px;
+  margin-bottom: 28px;
+
+}
+
+.mackbook {
+  display: block;
+  margin-inline: auto ;
+  width: 100%;
+}
+
+.smallpic img {
+  margin-right: 12px;
+  
+}
+
+.smallpic {
+  display:flex ;
+  align-items: center;
+  margin-bottom: 16px;
+  border-bottom: 1px solid black ;
+  padding-bottom: 16px;
+  border-color: #EAEAEA;
+}
+
+.info {
+  margin-top: 24px;
+} 
+
+.imac {
+  margin-top:80px ;
+  overflow: hidden;
+}
+.imac img {
+  float: left;
+  margin-right: 24px;
+  margin-bottom: 80.5px;
+}
+.imac h3 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 16px;
+}
+
+.imac p {
+  font-size: 16px;
+}
+
+.blueTitle {
+  width: 1110px;
+  height: 347px;
+  background-color: #ECF1F8; /* Şeffaf arka plan */
+  align-items: center; /* Dikeyde ortalama */
+  display: flex;
+  justify-content: center; /* Yatayda ortalama */
+  align-items: center; /* Dikeyde ortalama */
+}
+
+.blueTitle {
+  display: flex;
+  align-items: center; /* Resimleri yatayda ortalar */
+  justify-content: center; /* Konteyneri dikeyde ortalar (isteğe bağlı) */
+
+
+}
+.watch {
+  height: 547px;
+  max-width:1110px ;
+  padding-top: 80px;
+
+}
+.watch img {
+  max-width: 100%;
+  height: auto;
+  max-height:387px ;
+  float: right;
+  margin-left: 10px;
+}
+.watchvideo1 {
+  margin-bottom: 32px;
+}
+.watchvideo2 {
+  margin-bottom: 48px;
+}

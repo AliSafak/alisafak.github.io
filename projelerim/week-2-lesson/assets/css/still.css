@@ -1,0 +1,39 @@
+body {
+  background-color: beige;
+}
+
+p {
+  color: lightcoral;
+}
+
+.lead{
+  font-size: 22px;
+  color: aqua;
+}
+
+.italic{
+  font-style: italic;
+}
+
+p strong{
+  text-decoration: underline;
+}
+
+.lead strong{
+  color: red;
+}
+
+.kutu{
+  background-color: black;
+  width: 150px;
+  /* height: 150px; */
+}
+
+.box{
+  background-color: lightcoral;
+  width: 150px;
+  height: 150px;
+  padding: 30px;
+  box-sizing: border-box; }
+
+  

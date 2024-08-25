@@ -1,0 +1,36 @@
+.container {
+  height: 378px;
+  width: 924px;
+  margin-top: 10%;
+  margin-left: 25%;
+  display: flex;
+  background-color:#E6F0FF ;
+  text-align: left;
+
+}
+.leftside {
+  width:447px ;
+  height: 218px;
+  margin-top:68px ;
+  margin-left: 64px;
+}
+
+.rightside {
+  margin-top:43px ;
+  margin-right:76px ;
+}
+
+
+h1{
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  color:#212121 ;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  color:#212121 ;
+}

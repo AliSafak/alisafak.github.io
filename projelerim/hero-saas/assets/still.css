@@ -1,0 +1,39 @@
+*{ 
+  color: #FFFFFF;
+}
+
+
+.container {
+  background-color: #05285B;
+  display: flex;
+  width: 1440px;
+  height: 821.59;
+}
+.leftside {
+  margin-top:248px ;
+  margin-left: 165px;
+  margin-bottom:384px;
+}
+.rightside {
+  margin-top: 200px;
+  margin-right:95.01px ;
+}
+.Button {
+  display: block;
+  margin-top:10px ;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 70px;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+}
+p {
+  display: flex;
+}

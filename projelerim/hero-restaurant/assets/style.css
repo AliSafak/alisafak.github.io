@@ -1,0 +1,46 @@
+.container {
+  padding: 0px;
+  margin: 0px;
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  background-image: linear-gradient(to left, gray, red);
+}
+
+.left {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  flex: 1;
+  position: absolute;
+  margin-left: 130px;
+}
+
+.title {
+  font-size: 70px;
+  font-weight: 700;
+}
+.subtext {
+  font-weight: 700;
+  line-height: 34px;
+  height: auto;
+  font-size: 24px;
+}
+
+.right {
+  display: flex;
+  align-items: center; 
+  justify-content: flex-end;
+  flex: 1;
+}
+
+.right .burger {
+  margin-top: 50px;
+  width: 500px;
+  height: auto;
+}
+
+.left .car{
+  margin-top: 30px;
+  width: 400px;
+  height: auto;
+}
